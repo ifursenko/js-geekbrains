@@ -1,3 +1,5 @@
+// Lesson-1
+
 //1
 let celsiusToFahrenheit = +prompt('Введите температуру в цельсиях', 100)
 celsiusToFahrenheit = (9 / 5) * celsiusToFahrenheit + 32
